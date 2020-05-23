@@ -1,0 +1,2 @@
+# TerrariaServer
+Versao TShock BR
