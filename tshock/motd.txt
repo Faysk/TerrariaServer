@@ -1,3 +1,3 @@
-This is [c/FF0000:%map%] on [c/00FFFF:TShock for Terraria].
-[c/00FF00:Current players:] [c/FFFF00:%players%]
-Type [c/FF0000:/help] for a list of commands.
+Este é [c/FF0000:%map%] em [c/00FFFF:Faysk Server].
+[c/00FF00:Senta-se em casa :] [c/FFFF00:%players%]
+Digite [c/FF0000:/help] para ver a lista de comandos.
